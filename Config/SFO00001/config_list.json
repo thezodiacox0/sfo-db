@@ -1,0 +1,25 @@
+{
+    "id": "SFO00001",
+    "json_config": [
+        {
+            "config_name": "SFO Example",
+            "json_file": "example.json"
+        },
+        {
+            "config_name": "GoldHEN Example",
+            "json_file": "example1.json"
+        },
+        {
+            "config_name": "Halloween Example",
+            "json_file": "example2.json"
+        },
+        {
+            "config_name": "Merry Christmas Example",
+            "json_file": "example3.json"
+        },
+        {
+            "config_name": "Valentine Day Example",
+            "json_file": "example4.json"
+        }
+    ]
+}
